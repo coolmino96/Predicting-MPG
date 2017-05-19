@@ -1,17 +1,15 @@
 # Predicting-MPG
 
-This project is about predicting mpg of a car based on different variables using linear regression. This dataset was taken from the StatLib library which is 
-maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition. Variables that are 
-available in the data set are 
-    1. mpg:           continuous
-    2. cylinders:     multi-valued discrete
-    3. displacement:  continuous
-    4. horsepower:    continuous
-    5. weight:        continuous
-    6. acceleration:  continuous
-    7. model year:    multi-valued discrete
-    8. origin:        multi-valued discrete
-    9. car name:      string (unique for each instance)
+This project is about predicting mpg of a car based on different variables using linear regression. This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition. <br/>Variables that are available in the data set are 
+1. mpg:           continuous
+2. cylinders:     multi-valued discrete
+3. displacement:  continuous
+4. horsepower:    continuous
+5. weight:        continuous
+6. acceleration:  continuous
+7. model year:    multi-valued discrete
+8. origin:        multi-valued discrete
+9. car name:      string (unique for each instance)
     
 You can read more about the data set at auto-mpg.names file present in the project
 
@@ -39,4 +37,4 @@ replace the path for the code car_data_copy<-read.csv('C:/Users/prana/Desktop/R 
 ## Contributors
 
 Pranay Kumar Reddy Katta
-Eliran
+<br/>Eliran
